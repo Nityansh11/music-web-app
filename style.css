@@ -1,0 +1,17 @@
+
+
+.note
+{
+  font-size: 13px;
+  color: black;
+
+}.song_name
+  {
+  	width: 130px;
+  	font-size: 20px;
+  }
+    canvas 
+  {
+    border:5px solid white;
+    border-radius:20px;
+  }
